@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamsungSmsConverter", "SamsungSmsConverter\SamsungSmsConverter.csproj", "{47B8227A-FD67-41B9-88E6-94970D2537DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B8227A-FD67-41B9-88E6-94970D2537DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B8227A-FD67-41B9-88E6-94970D2537DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B8227A-FD67-41B9-88E6-94970D2537DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B8227A-FD67-41B9-88E6-94970D2537DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DB35CD-4A6B-4BB8-8FD0-12884BA26C6F}
+	EndGlobalSection
+EndGlobal
